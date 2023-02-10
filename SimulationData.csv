@@ -1,0 +1,12 @@
+Name,Distance Traveled,Robots Picked up
+Car,3553.73,
+Drone,924.302,1,
+Drone2,0,0,
+Drone3,0,0,
+Helicopter-0,2842.88,
+a,581.989,
+Distance Analytics
+,Average:,Median:,Max:,Min:
+,1317.15,753.146,3553.73,0
+Robots Picked Up Analytics
+,0.333333,0,1,0
